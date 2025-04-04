@@ -19,7 +19,6 @@ I'm always excited to connect, exchange ideas, and collaborate on meaningful pro
 
 - [**Feature extraction and deep learning**](https://www.sciencedirect.com/science/article/abs/pii/B9780443328183000198), *Abtin Mahyar, Hossein Motamednia, Pooryaa Cheraaqee, Azadeh Mansouri*,
   *Dimensionality Reduction in Machine Learning*, pp. 211-243. Morgan Kaufmann. 
-  
 
 - [**Cultural-Aware AI Model for Emotion Recognition**](https://ieeexplore.ieee.org/abstract/document/10491176), *Mehrdad Baradaran, Payam Zohari, Abtin Mahyar, Hossein Motamednia, Dara Rahmati, Saeid Gorgin*,
   *IEEE International Machine Vision and Image Processing Conference (MVIP)*, 2024.
@@ -28,4 +27,3 @@ I'm always excited to connect, exchange ideas, and collaborate on meaningful pro
 - [**Brain age estimation using structural MRI: a clustered federated learning approach**](https://ieeexplore.ieee.org/abstract/document/10189329), *Seyyed Saeid Cheshmi, Abtin Mahyar, Anita Soroush, Zahra Rezvani, Bahar Farahani*,
   *IEEE International Conference on Omni-layer Intelligent Systems (COINS)*, 2023.
   [Code](https://github.com/Abtinmy/Clustered-FL-BrainAGE)
-  س
