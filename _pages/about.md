@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a Master’s student in Computer Science at the [Data Systems Group](https://uwaterloo.ca/data-systems-group/), within the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/), supervised by [Prof. Xi He](https://cs.uwaterloo.ca/~xihe/). I’m also a graduate researcher at the [Vector Institute](https://vectorinstitute.ai/) and expect to graduate in January 2027.
 
-From May to August 2026, I worked as a Software Developer Intern (AI/ML) at [Ford Motor Company](https://www.ford.ca/), developing conversational and offline AI assistants for vehicle infotainment. My work included embedded language models, speech-to-intent recognition, and model optimization for limited compute.
+Since May 2026, I’ve been working as a Software Developer Intern (AI/ML) at [Ford Motor Company](https://www.ford.ca/) on conversational and offline AI assistants for vehicle infotainment, with an expected end date of December 2026. My work includes embedded language models, speech-to-intent recognition, and model optimization for limited compute.
 
 Before starting my Master’s, I worked as a research assistant and completed an internship at the [Institute for Research in Fundamental Sciences (IPM)](https://www.ipm.ac.ir/), under the supervision of [Prof. Dara Rahmati](https://www.linkedin.com/in/dara-rahmati-b628544b/). I earned my Bachelor's degree in Computer Science from [Shahid Beheshti University](https://en.sbu.ac.ir/) in 2023.
 
