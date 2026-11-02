@@ -7,15 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first-year Master’s student at [Data System Group](https://uwaterloo.ca/data-systems-group/), within the  [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/), where I’m fortunate to be supervised by [Prof. Xi He](https://cs.uwaterloo.ca/~xihe/). I’m also a graduate researcher at [Vector Institiute](https://vectorinstitute.ai/).
+I’m a Master’s student in Computer Science at the [Data Systems Group](https://uwaterloo.ca/data-systems-group/), within the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/), supervised by [Prof. Xi He](https://cs.uwaterloo.ca/~xihe/). I’m also a graduate researcher at the [Vector Institute](https://vectorinstitute.ai/) and expect to graduate in January 2027.
 
-Before starting my Master’s, I worked as a research assistant and completed an internship at [Institute of Institute For Research In Fundamental Sciences (IPM)](https://www.ipm.ac.ir/), under the supervision of [Prof. Dara Rahmati](https://www.linkedin.com/in/dara-rahmati-b628544b/). I earned my Bachelor's degree in Computer Science from [Shahid Beheshti University](https://en.sbu.ac.ir/) in 2023.
+From May to August 2026, I worked as a Software Developer Intern (AI/ML) at [Ford Motor Company](https://www.ford.ca/), developing conversational and offline AI assistants for vehicle infotainment. My work included embedded language models, speech-to-intent recognition, and model optimization for limited compute.
 
-I am currently focusing on generative modeling and synthetic data for multi-relational tabular systems, aiming to build high-fidelity, privacy-aware AI solutions for real-world applications. Previously, I contributed to projects in federated learning for medical imaging, multi-modal emotion recognition, and autonomous driving perception, resulted in multiple publications. Beyond research, I enjoy building real-world AI systems, from anomaly detection frameworks for real-time cloud streams to Android apps and recommender systems. I'm passionate about applying cutting-edge AI techniques to solve practical problems at scale.
+Before starting my Master’s, I worked as a research assistant and completed an internship at the [Institute for Research in Fundamental Sciences (IPM)](https://www.ipm.ac.ir/), under the supervision of [Prof. Dara Rahmati](https://www.linkedin.com/in/dara-rahmati-b628544b/). I earned my Bachelor's degree in Computer Science from [Shahid Beheshti University](https://en.sbu.ac.ir/) in 2023.
+
+My research focuses on generative modeling, synthetic data, and privacy in multi-relational tabular systems. I have also worked on LLM agent inference, federated learning for medical imaging, multimodal emotion recognition, and autonomous-driving perception. Beyond research, I enjoy building practical AI systems, from real-time anomaly detection to Android apps and recommender systems.
 
 I'm always excited to connect, exchange ideas, and collaborate on meaningful projects—feel free to reach out!
 
 ## Publications
+
+- [**FERMI: Exploiting Relations for Membership Inference Against Tabular Diffusion Models**](https://arxiv.org/abs/2605.11527), *Abtin Mahyar, Masoumeh Shafieinejad, Yuhan Liu, Xi He*,
+  *ICML 2026 (FoGen)*.
+  [OpenReview](https://openreview.net/forum?id=Xv3yURNtNT)
 
 - [**Feature extraction and deep learning**](https://www.sciencedirect.com/science/article/abs/pii/B9780443328183000198), *Abtin Mahyar, Hossein Motamednia, Pooryaa Cheraaqee, Azadeh Mansouri*,
   *Dimensionality Reduction in Machine Learning*, pp. 211-243. Morgan Kaufmann. 
